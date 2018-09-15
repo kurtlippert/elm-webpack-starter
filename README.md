@@ -1,2 +1,2 @@
 # elm-webpack-starter
-Elm, webpack starter project. Typescript used for the javascript bits
+Elm, webpack starter project. Typescript used in places
